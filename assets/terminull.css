@@ -1,6 +1,9 @@
 .terminull {
-  background-color: #282d39;
+  /* background-color: #282d39; */
   border-radius: 5px;
+  font-family: "Ubuntu Mono", Consolas, Menlo, Courier, monospace;
+  background-color: #fdf6e4;
+  font-size: 1.1em;
 }
 
 .terminullMenu {
@@ -17,7 +20,8 @@
   padding: 20px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
-  color: white;
+  /* color: white; */
+  color: #282d39;
   text-align: left;
   font-family: monospace;
   white-space: nowrap;
